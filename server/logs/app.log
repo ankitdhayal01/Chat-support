@@ -1,0 +1,183 @@
+2025-08-23 23:57:53 [ERROR]: MongoDB connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-08-23 23:57:53 [INFO]: Server running on port 8080
+2025-08-23 23:58:39 [ERROR]: MongoDB connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-08-23 23:58:39 [INFO]: Server running on port 8080
+2025-08-24 00:00:34 [ERROR]: MongoDB connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-08-24 00:00:34 [INFO]: Server running on port 8080
+2025-08-24 00:02:21 [ERROR]: MongoDB connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-08-24 00:02:21 [INFO]: Server running on port 8080
+2025-08-24 00:05:00 [ERROR]: MongoDB connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-08-24 00:05:00 [INFO]: Server running on port 8080
+2025-08-24 00:05:45 [INFO]: Server running on port 8080
+2025-08-24 00:05:45 [INFO]: MongoDB connected
+2025-08-24 00:05:50 [INFO]: User connected: o70rCbMK-InuwMMHAAAB
+2025-08-24 00:06:00 [INFO]: Server running on port 8080
+2025-08-24 00:06:00 [INFO]: MongoDB connected
+2025-08-24 00:06:03 [INFO]: User connected: aooZCHB4RfLGrETNAAAB
+2025-08-24 00:07:36 [INFO]: Server running on port 8080
+2025-08-24 00:07:36 [INFO]: MongoDB connected
+2025-08-24 00:07:37 [INFO]: User connected: bpXJcm8QhGxj4gAfAAAB
+2025-08-24 00:07:48 [INFO]: User disconnected: bpXJcm8QhGxj4gAfAAAB
+2025-08-24 00:07:48 [INFO]: User connected: 4XnC9IW7W_NsvRr5AAAD
+2025-08-24 00:07:54 [INFO]: anki joined room 1
+2025-08-24 00:07:54 [INFO]: Loaded previous messages for room 1
+2025-08-24 00:08:05 [INFO]: User disconnected: 4XnC9IW7W_NsvRr5AAAD
+2025-08-24 00:08:05 [INFO]: User connected: kxakKP1OaI4N_VJVAAAF
+2025-08-24 00:08:11 [INFO]: anki joined room 3
+2025-08-24 00:08:11 [INFO]: Loaded previous messages for room 3
+2025-08-24 00:08:19 [INFO]: User connected: GUFXYS48kQfJAecvAAAH
+2025-08-24 00:08:22 [INFO]: User connected: CvTB7BDuZeG5CXbpAAAJ
+2025-08-24 00:08:29 [INFO]: rahu  joined room 3
+2025-08-24 00:08:29 [INFO]: Loaded previous messages for room 3
+2025-08-24 00:08:33 [INFO]: Message from rahu  in room 3: hlo
+2025-08-24 00:08:42 [INFO]: Message from anki in room 3: how are you 
+2025-08-24 00:08:53 [ERROR]: Join error: nik tried to join full room 3
+2025-08-24 00:08:56 [INFO]: Message from nik in room 3: hlo
+2025-08-24 00:09:01 [INFO]: Message from nik in room 3: hloo
+2025-08-24 00:13:53 [INFO]: Server running on port 8080
+2025-08-24 00:13:53 [INFO]: MongoDB connected
+2025-08-24 00:13:54 [INFO]: User connected: xMxikn5Wcf6RiPi8AAAB
+2025-08-24 00:13:54 [INFO]: anki joined room 4
+2025-08-24 00:13:54 [INFO]: Loaded previous messages for room 4
+2025-08-24 00:13:54 [INFO]: Message from anki in room 4: hloo
+2025-08-24 00:13:57 [INFO]: User connected: CJItUM74hU2-jSi5AAAD
+2025-08-24 00:13:57 [INFO]: rahu  joined room 4
+2025-08-24 00:13:57 [INFO]: Loaded previous messages for room 4
+2025-08-24 00:13:57 [INFO]: Message from rahu  in room 4: hlo
+2025-08-24 00:13:57 [INFO]: Message from rahu  in room 4: hlo
+2025-08-24 00:13:58 [INFO]: User connected: 22uK6vKTee0pBqcqAAAF
+2025-08-24 00:13:58 [ERROR]: Join error: niko tried to join full room 4
+2025-08-24 00:14:22 [INFO]: Message from niko in room 4: hloo
+2025-08-24 00:14:43 [INFO]: Server running on port 8080
+2025-08-24 00:14:43 [INFO]: MongoDB connected
+2025-08-24 00:14:43 [INFO]: User connected: nQUivRUutixZXIFlAAAB
+2025-08-24 00:14:44 [INFO]: User connected: EtaIogOPdUExEn3PAAAD
+2025-08-24 00:14:45 [INFO]: User connected: XB62sJJIP9hTsidAAAAF
+2025-08-24 00:14:49 [INFO]: Server running on port 8080
+2025-08-24 00:14:49 [INFO]: MongoDB connected
+2025-08-24 00:14:51 [INFO]: User connected: uUkIUV95AKBjPQSQAAAB
+2025-08-24 00:14:51 [INFO]: User connected: vnhENafxA4ZmYBB-AAAD
+2025-08-24 00:14:52 [INFO]: User connected: Iw0svjEaXoeQun6MAAAF
+2025-08-24 00:15:51 [INFO]: Server running on port 8080
+2025-08-24 00:15:51 [INFO]: MongoDB connected
+2025-08-24 00:15:52 [INFO]: User connected: JhkrcObGRnf9mhV-AAAD
+2025-08-24 00:15:52 [INFO]: User connected: 6VbB8oq4SVZRLeaOAAAE
+2025-08-24 00:15:52 [INFO]: User connected: Ky7aAIkHqyIrxKceAAAF
+2025-08-24 00:16:30 [INFO]: Server running on port 8080
+2025-08-24 00:16:30 [INFO]: MongoDB connected
+2025-08-24 00:16:30 [INFO]: User connected: nYmQb9WkhpubxuuUAAAB
+2025-08-24 00:16:31 [INFO]: User connected: hnVhUHxknwTniGyjAAAE
+2025-08-24 00:16:31 [INFO]: User connected: Twzw2qsJONBb_ecQAAAF
+2025-08-24 00:16:54 [INFO]: Server running on port 8080
+2025-08-24 00:16:54 [INFO]: MongoDB connected
+2025-08-24 00:16:55 [INFO]: User connected: XOJPl8OFQm1gtJN4AAAC
+2025-08-24 00:16:55 [INFO]: User connected: pzQT-JFzPR9c-_3xAAAE
+2025-08-24 00:16:55 [INFO]: User connected: E5LkL21wHHxXHryOAAAF
+2025-08-24 00:17:09 [INFO]: Server running on port 8080
+2025-08-24 00:17:09 [INFO]: MongoDB connected
+2025-08-24 00:17:10 [INFO]: User connected: GPjkQIH7mi7hQ6rHAAAC
+2025-08-24 00:17:10 [INFO]: User connected: j7F7_tclOPRF0U5CAAAD
+2025-08-24 00:17:11 [INFO]: User connected: E_AfHq1ZPWEXm7rEAAAF
+2025-08-24 00:17:56 [INFO]: Message from anki in room 4: hlo
+2025-08-24 00:18:04 [INFO]: Message from anki in room 4: hello
+2025-08-24 00:18:14 [INFO]: User disconnected: GPjkQIH7mi7hQ6rHAAAC
+2025-08-24 00:18:14 [INFO]: User connected: A-_Z_ywWJzSTSxCyAAAH
+2025-08-24 00:18:22 [INFO]: nik joined room 1
+2025-08-24 00:18:22 [INFO]: Loaded previous messages for room 1
+2025-08-24 00:18:27 [INFO]: User disconnected: A-_Z_ywWJzSTSxCyAAAH
+2025-08-24 00:18:31 [INFO]: User disconnected: j7F7_tclOPRF0U5CAAAD
+2025-08-24 00:18:32 [INFO]: User disconnected: E_AfHq1ZPWEXm7rEAAAF
+2025-08-24 00:19:48 [INFO]: Server running on port 8080
+2025-08-24 00:19:48 [INFO]: MongoDB connected
+2025-08-24 00:19:59 [INFO]: Server running on port 8080
+2025-08-24 00:19:59 [INFO]: MongoDB connected
+2025-08-24 00:20:15 [INFO]: Server running on port 8080
+2025-08-24 00:20:15 [INFO]: MongoDB connected
+2025-08-24 00:21:04 [INFO]: Server running on port 8080
+2025-08-24 00:21:04 [INFO]: MongoDB connected
+2025-08-24 00:21:16 [INFO]: Server running on port 8080
+2025-08-24 00:21:16 [INFO]: MongoDB connected
+2025-08-24 00:21:44 [INFO]: Server running on port 8080
+2025-08-24 00:21:44 [INFO]: MongoDB connected
+2025-08-24 00:22:11 [INFO]: User connected: oS5IbvFvF97grzIIAAAB
+2025-08-24 00:22:17 [INFO]: User connected: cRl8CKLwMv-uQN0hAAAD
+2025-08-24 00:22:39 [INFO]: ram joined room 1
+2025-08-24 00:22:39 [INFO]: Loaded previous messages for room 1
+2025-08-24 00:22:50 [INFO]: shyam joined room 1
+2025-08-24 00:22:50 [INFO]: Loaded previous messages for room 1
+2025-08-24 00:22:56 [INFO]: User disconnected: oS5IbvFvF97grzIIAAAB
+2025-08-24 00:22:56 [INFO]: User connected: VLcNoviHr5XG0DpqAAAF
+2025-08-24 00:23:04 [INFO]: User disconnected: cRl8CKLwMv-uQN0hAAAD
+2025-08-24 00:23:05 [INFO]: User connected: tAZU-0WFrOhqjRsBAAAH
+2025-08-24 00:23:14 [INFO]: anki joined room 12
+2025-08-24 00:23:14 [INFO]: Loaded previous messages for room 12
+2025-08-24 00:23:16 [INFO]: rahu joined room 12
+2025-08-24 00:23:16 [INFO]: Loaded previous messages for room 12
+2025-08-24 00:23:22 [INFO]: Message from anki in room 12: hlo
+2025-08-24 00:23:29 [INFO]: Message from rahu in room 12: how are you
+2025-08-24 00:23:40 [INFO]: Message from anki in room 12: ia ma fie 
+2025-08-24 00:23:49 [INFO]: Message from rahu in room 12: and you 
+2025-08-24 00:23:55 [INFO]: User connected: Wz76F3Cqdz4PzPmoAAAJ
+2025-08-24 00:24:03 [ERROR]: nikiiii tried to join full room 12
+2025-08-24 00:24:20 [INFO]: Message from anki in room 12: nice
+2025-08-24 00:24:32 [INFO]: Message from rahu in room 12: thats great
+2025-08-24 00:24:47 [INFO]: User disconnected: VLcNoviHr5XG0DpqAAAF
+2025-08-24 00:24:47 [INFO]: User connected: TgMHDp2ripYrvRSwAAAL
+2025-08-24 00:24:53 [INFO]: anki joined room 12
+2025-08-24 00:24:53 [INFO]: Loaded previous messages for room 12
+2025-08-24 00:24:59 [INFO]: Message from anki in room 12: wow
+2025-08-24 00:25:04 [INFO]: User disconnected: tAZU-0WFrOhqjRsBAAAH
+2025-08-24 00:25:04 [INFO]: User connected: CQiu85A7jA86bpwYAAAN
+2025-08-24 00:25:10 [INFO]: rahu joined room 12
+2025-08-24 00:25:10 [INFO]: Loaded previous messages for room 12
+2025-08-24 00:25:15 [INFO]: Message from rahu in room 12: kya baat
+2025-08-24 00:25:37 [INFO]: User disconnected: CQiu85A7jA86bpwYAAAN
+2025-08-24 00:25:37 [INFO]: User disconnected: Wz76F3Cqdz4PzPmoAAAJ
+2025-08-24 00:25:39 [INFO]: User disconnected: TgMHDp2ripYrvRSwAAAL
+2025-08-24 00:28:34 [INFO]: Server running on port 8080
+2025-08-24 00:28:34 [INFO]: MongoDB connected
+2025-08-24 00:28:55 [INFO]: Server running on port 8080
+2025-08-24 00:28:55 [INFO]: MongoDB connected
+2025-08-24 00:30:10 [INFO]: Server running on port 8080
+2025-08-24 00:30:10 [INFO]: MongoDB connected
+2025-08-24 10:47:23 [INFO]: Server running on port 8080
+2025-08-24 10:47:23 [INFO]: MongoDB connected
+2025-08-24 10:48:14 [INFO]: User connected: qXKNsGtBvdTkk6JzAAAB
+2025-08-24 10:48:20 [INFO]: User connected: BgeAK8bKmi0nMWxHAAAD
+2025-08-24 10:48:50 [INFO]: rahul joined room 121
+2025-08-24 10:48:50 [INFO]: Loaded previous messages for room 121
+2025-08-24 10:48:53 [INFO]: ankit joined room 121
+2025-08-24 10:48:53 [INFO]: Loaded previous messages for room 121
+2025-08-24 10:49:07 [INFO]: Message from ankit in room 121: hlo
+2025-08-24 10:49:11 [INFO]: Message from rahul in room 121: hii
+2025-08-24 10:49:16 [INFO]: Message from rahul in room 121: how atre you
+2025-08-24 10:58:28 [INFO]: rahu joined room 234
+2025-08-24 10:58:28 [INFO]: Loaded previous messages for room 234
+2025-08-24 10:59:36 [INFO]: Server running on port 8080
+2025-08-24 10:59:36 [INFO]: MongoDB connected
+2025-08-24 10:59:36 [INFO]: User connected: lTWs_jjpKi5vmmImAAAB
+2025-08-24 10:59:38 [INFO]: User connected: fMejCLUHPKJCX7rQAAAD
+2025-08-24 11:35:08 [INFO]: User disconnected: fMejCLUHPKJCX7rQAAAD
+2025-08-24 11:35:08 [INFO]: User disconnected: lTWs_jjpKi5vmmImAAAB
+2025-08-24 11:35:08 [INFO]: User connected: _f_zULeJzjZiIsngAAAF
+2025-08-24 11:35:08 [INFO]: User connected: 6EJGn2obwB7XsDN_AAAH
+2025-08-24 13:56:21 [INFO]: User disconnected: 6EJGn2obwB7XsDN_AAAH
+2025-08-24 13:56:21 [INFO]: User disconnected: _f_zULeJzjZiIsngAAAF
+2025-08-24 13:56:21 [INFO]: User connected: ezKsewDBM-Zvb5vUAAAK
+2025-08-24 13:56:21 [INFO]: User connected: eVIkFCmTWn9BKFtKAAAL
+2025-08-24 13:56:23 [INFO]: User disconnected: eVIkFCmTWn9BKFtKAAAL
+2025-08-24 13:56:23 [INFO]: User disconnected: ezKsewDBM-Zvb5vUAAAK
+2025-08-24 13:56:23 [INFO]: User connected: dB-yT_VPFTkCMS66AAAO
+2025-08-24 13:56:23 [INFO]: User connected: 5_erUTYlZabBEuiVAAAP
+2025-08-24 13:56:26 [INFO]: User disconnected: 5_erUTYlZabBEuiVAAAP
+2025-08-24 13:56:26 [INFO]: User disconnected: dB-yT_VPFTkCMS66AAAO
+2025-08-24 13:56:26 [INFO]: User connected: j7PF4gQTdPwgXOnAAAAS
+2025-08-24 13:56:26 [INFO]: User connected: 5R1JonZiioQCNA5aAAAT
+2025-08-24 14:17:38 [INFO]: User disconnected: 5R1JonZiioQCNA5aAAAT
+2025-08-24 14:17:38 [INFO]: User disconnected: j7PF4gQTdPwgXOnAAAAS
+2025-08-24 14:17:39 [INFO]: User connected: Nk5LvmalVouEpKxpAAAW
+2025-08-24 14:17:39 [INFO]: User connected: UPnBfK2880NWzxCNAAAX
+2025-08-24 15:49:23 [INFO]: User disconnected: UPnBfK2880NWzxCNAAAX
+2025-08-24 15:49:23 [INFO]: User disconnected: Nk5LvmalVouEpKxpAAAW
+2025-08-24 15:49:23 [INFO]: User connected: 7Cj1yX7mYs9kPrMjAAAZ
+2025-08-24 15:49:23 [INFO]: User connected: nibakL0aQ7Pi6ZYeAAAb

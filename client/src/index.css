@@ -1,0 +1,198 @@
+body {
+  background: url("https://samruddhivastu.com/blog/wp-content/uploads/2024/01/basics-of-astrology-zodiac-signs-and-meanings-min.jpg")
+    no-repeat center center/cover;
+  margin: 0;
+  font-family: "Outfit", sans-serif;
+}
+
+/* Overlay on top of background */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6); /* Dark overlay */
+  z-index: -1;
+}
+
+.join_chat {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 20px;
+  color: white;
+}
+
+.join_chat h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.join_chat input {
+  padding: 12px 16px;
+  border-radius: 8px;
+  border: 1px solid #6c63ff;
+  width: 280px;
+  font-size: 1rem;
+  outline: none;
+}
+
+.join_chat button {
+  background: #6c63ff;
+  color: #fff;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.join_chat button:hover {
+  background: #5146d9;
+}
+.chat_container {
+  height: 600px;
+  width: 420px;
+  margin: 40px auto;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35);
+  display: flex;
+  flex-direction: column;
+  background-color: #1e1e2f;
+  font-family: "Segoe UI", sans-serif;
+  color: #f5f5f5;
+}
+.welcome {
+  text-align: center;
+  padding: 15px;
+  
+  margin: 0;
+  font-size: 18px;
+  border-bottom: 1px solid #444;
+}
+
+
+.chat_header {
+  padding: 15px;
+  background-color: #2a2a40;
+  margin: 0;
+  font-size: 18px;
+  text-align: center;
+  border-bottom: 1px solid #444;
+}
+
+.chat_box {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: #2a2a40;
+  position: relative;
+}
+
+.chat_messages {
+  flex: 1;
+  padding: 10px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.message {
+  max-width: 70%;
+  word-wrap: break-word;
+  display: flex;
+  flex-direction: column;
+}
+
+.message.you {
+  align-self: flex-end;
+}
+
+.message.other {
+  align-self: flex-start;
+}
+
+.message_content p {
+  margin: 0;
+  padding: 8px 14px;
+  border-radius: 19px;
+  background-color: #3b3b5a;
+  color: #f5f5f5;
+  font-size: 14px;
+}
+
+.message.you .message_content p {
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  color: #fff;
+}
+
+.message_meta {
+  font-size: 10px;
+  color: #aaa;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2px;
+}
+
+.chat_body {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background-color: #222233;
+  padding: 12px;
+  border-top: 1px solid #444;
+  border-radius: 0 0 16px 16px;
+}
+
+.chat_body input {
+  flex: 1;
+  height: 42px;
+  padding: 0 14px;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  background-color: #33334d;
+  color: #f5f5f5;
+  font-size: 14px;
+  transition: background-color 0.2s, box-shadow 0.2s;
+}
+
+.chat_body input::placeholder {
+  color: #aaa;
+}
+
+.chat_body input:focus {
+  box-shadow: 0 0 8px rgba(97, 81, 255, 0.5);
+}
+
+.chat_body button {
+  height: 42px;
+  width: 42px;
+  border: none;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.chat_body button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.chat_body button:active {
+  transform: scale(0.95);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
